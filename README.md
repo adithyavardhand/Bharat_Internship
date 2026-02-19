@@ -16,3 +16,15 @@ During this internship, I worked on multiple regression and classification probl
 - Practical ML implementation using Python
 
 ---
+This internship helped me strengthen my foundation in machine learning concepts and apply theoretical knowledge to practical datasets. It enhanced my understanding of model building, evaluation, and optimization techniques.
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-link
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ If you found this repository useful, feel free to star it!
