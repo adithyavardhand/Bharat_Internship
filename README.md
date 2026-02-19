@@ -22,8 +22,8 @@ This internship helped me strengthen my foundation in machine learning concepts 
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-link
-- 📧 Email: your-email@example.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/adithyavardhand
+- 📧 Email: adithyavardhandosapati@gmail.com
 
 ---
 
